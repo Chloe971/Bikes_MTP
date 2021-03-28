@@ -1,0 +1,10 @@
+MMM_EcoCompt_X2H19070220 = Berracasa
+MMM_EcoCompt_X2H20042632 = Lavérure
+MMM_EcoCompt_X2H20042633 = Celleneuve
+MMM_EcoCompt_X2H20042634 = Lattes 2
+MMM_EcoCompt_X2H20042635 = Lattes 1
+MMM_EcoCompt_X2H20063161 = Vieille Poste
+MMM_EcoCompt_X2H20063162 = Gerhardt
+MMM_EcoCompt_XTH19101158 = ALbert1er
+MMM_EcoCompt_X2H20063163 = Delmas 1
+MMM_EcoCompt_X2H20063164 = Delmas 2
